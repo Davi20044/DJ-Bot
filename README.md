@@ -1,5 +1,7 @@
 # Music-bot
 
+Este projeto de adaptação nasceu da necessidade de um grupo de amigos que compartilham o interesse pelo RPG. Após enfrentarem a falha de um bot de música anteriormente utilizado durante suas sessões de jogo, o grupo se viu em busca de uma solução confiável para manter a atmosfera musical em suas aventuras. Foi então que surgiu a ideia de adaptar o bot de música originalmente desenvolvido por ZerioDev para atender às suas necessidades específicas, incluindo a tradução para o português para maior facilidade de interação do bot durante a jogatina.
+
 Este projeto é uma adaptação do bot de música originalmente desenvolvido por ZerioDev, com o objetivo de oferecer uma solução adaptada para o público de língua portuguesa. Com os recentes problemas enfrentados pelos bots de música do Discord, como interrupções no funcionamento e outros defeitos, esta adaptação visa fornecer uma alternativa confiável e funcional. O bot permite aos usuários reproduzir músicas diretamente em seus servidores do Discord, com funcionalidades para tocar músicas de diferentes fontes, controlar a reprodução, exibir informações detalhadas sobre as faixas e gerenciar filas de reprodução. Este bot foi projetado para ser executado localmente utilizando Node.js ou hospedado em um servidor online, garantindo flexibilidade e acessibilidade aos usuários.
 
 
@@ -30,7 +32,7 @@ O bot de música para Discord é desenvolvido em Python, aproveitando o poder da
 
 # Desenvolvedor original e Creditos:
 
-Este projeto é um mod do bot de música originalmente desenvolvido por ZerioDev, adaptando-o para o público de língua portuguesa. Com os recentes problemas enfrentados pelos bots de música do Discord, como interrupções no funcionamento e outros defeitos, esta modificação visa oferecer uma alternativa adaptada e funcional. O bot mantém as funcionalidades essenciais, como reprodução de músicas, controle da reprodução e gerenciamento de filas, enquanto é capaz de rodar localmente com Node.js ou ser hospedado em um servidor online. Créditos ao ZerioDev pelo projeto original.
+Créditos ao ZerioDev pelo projeto original.
 
 Além disso, gostaríamos de expressar nossa gratidão ao ZerioDev pelo seu trabalho e dedicação em desenvolver o bot de música original, que serviu como inspiração e base para esta adaptação. Seu comprometimento com a comunidade Discord é admirável e fundamental para o sucesso de projetos como este.
 
