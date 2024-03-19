@@ -34,5 +34,5 @@ Este projeto é um mod do bot de música originalmente desenvolvido por ZerioDev
 
 Além disso, gostaríamos de expressar nossa gratidão ao ZerioDev pelo seu trabalho e dedicação em desenvolver o bot de música original, que serviu como inspiração e base para esta adaptação. Seu comprometimento com a comunidade Discord é admirável e fundamental para o sucesso de projetos como este.
 
-Projeto Original: https://github.com/ZerioDev/Music-bot
-GitHub do ZerioDev: https://github.com/ZerioDev
+- Projeto Original: https://github.com/ZerioDev/Music-bot
+- GitHub do ZerioDev: https://github.com/ZerioDev
