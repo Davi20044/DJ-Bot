@@ -1,0 +1,10 @@
+Instale o node.
+
+
+Na barra de Caminho da pasta com os arquivos, substitua por:
+cmd
+
+
+Na tela do cmd digite:
+node main.js
+
