@@ -7,6 +7,6 @@ Na barra de Caminho da pasta com os arquivos, substitua por:
 cmd
 
 Na tela do cmd digite:
-npm install node
-node main.js
+- npm install node
+- node main.js
 
